@@ -1,3 +1,0 @@
-test
-after test
-four times test
